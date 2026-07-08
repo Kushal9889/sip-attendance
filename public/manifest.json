@@ -1,0 +1,13 @@
+{
+  "name": "SIP Attendance",
+  "short_name": "Attendance",
+  "description": "Smart attendance manager for SIP Abacus teachers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#6366f1",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
